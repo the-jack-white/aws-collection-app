@@ -4,7 +4,7 @@ A simple NodeJS command line app to manage AWS Rekognition collections.
 
 ### Installation
 
-1. Clone the repository
+1. Clone or download the repository
 
 2. `npm install`
 
